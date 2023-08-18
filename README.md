@@ -6,7 +6,7 @@ The instance generator is implemented in MatLab. Based on the generated instance
 
 ## If you used the code on your research project, please cite our paper.
 
-Bibtex:  
+BibTeX:  
 >@article{li2020load,  
   title={Load balancing edge server placement method with QoS requirements in wireless metropolitan area networks},  
   author={Li, Xingcun and Zeng, Feng and Fang, Guanyun and Huang, Yinan and Tao, Xunlin},  
