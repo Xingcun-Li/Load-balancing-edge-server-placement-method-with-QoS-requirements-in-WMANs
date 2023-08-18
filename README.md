@@ -4,7 +4,7 @@ Instance generator in the paper: Load balancing edge server placement method wit
 
 The instance generator is implemented in MatLab. Based on the generated instances, you can develop your own edge server placement algorithm. If you need to use C++ or Python, please export the information of each generated instance to a text file. Then, you can then develop your algorithm in C++ or Python and test the performance of the algorithm on instances in txt format.
 
-## If you used the code on your research project, please cite our paper.
+## If you used the code on your research/project, please cite our paper.
 
 BibTeX:  
 >@article{li2020load,  
